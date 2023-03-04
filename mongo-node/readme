@@ -1,0 +1,25 @@
+# Overview
+
+In this project, I wanted to interact with a document type database. In this case, I'm using MongoDB to get information from my contacts database objects
+
+I'm using an MVC architecture to separate business logic, API calls, and initialization processes, as well as the connection with the database
+
+I wanted to show how easy it is to interact with a document-type database and make the API calls simple. Node.js is a perfect programming language to interact with these types of databases
+
+[Software Demo Video](https://www.youtube.com/watch?v=gcRbgCj4UcE)
+
+# Development Environment
+
+I used VSCode as my code editor, the REST Client extension, and express, dot-env, MongoDB, and body-parser npm packages
+
+I used Node.js with MongoDB
+
+# Useful Websites
+
+- [Node.js Web Site](https://nodejs.org/en/)
+- [MongoDb Web Site](https://www.mongodb.com/)
+
+# Future Work
+
+- In a future example I want to show POST, PUT, and DELETE requests
+- I could show API Documentation so that everyone could have access to these API calls
